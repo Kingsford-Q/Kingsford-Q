@@ -1,12 +1,28 @@
-- 👋 Hi, I’m Kingsford Quainoo
-- 👀 I’m interested in programming and i'm literally a beginner
-- 🌱 I’m currently learning Computer Science and Engineering at the University of Mines and Technology
-- 💞️ I’m looking to collaborate on lots of projects with lots of people to expand my knowledge
-- 📫 How to reach me is through my my Linkedn profile https://www.linkedin.com/in/kingsford-quainoo-8b416326b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-- 😄 Pronouns: Mr
-- ⚡ Fun fact: I code for fun
+Hi there, I'm Kingsford Quainoo 👋
 
-<!---
-Kingsford-Q/Kingsford-Q is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a full-stack developer and UI/UX designer passionate about creating impactful digital experiences. I thrive on turning innovative ideas into reality, whether through web applications or design projects.
+
+🚀 About Me
+
+🌐 Developer of Sphir: Currently building Sphir, a video chat web app for university students to connect and collaborate. The project was founded by Lawson, and I'm leading its development.
+
+🎨 UI/UX Enthusiast: Focused on designing intuitive interfaces for both mobile and desktop platforms.
+
+💻 Frontend Developer: Experienced in building dynamic user interfaces with React.
+
+🔄 Object-Oriented Programming: Strong foundation in OOP principles, leveraging design patterns for scalable solutions.
+
+🎨 Graphic Designer: Designed promotional content for brands
+
+🔧 Technologies & Skills
+
+Languages: JavaScript, Python, C++
+
+Frontend: React, HTML, CSS
+
+Backend: Node.js, Express
+
+Design: Figma, Adobe Photoshop, Canva
+
+Tools: Git, GitHub, Webflow
+- 📫 How to reach me is through my my Linkedn profile https://www.linkedin.com/in/kingsford-quainoo-8b416326b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
