@@ -16,12 +16,10 @@ I'm a full-stack developer and UI/UX designer passionate about creating impactfu
 
 🔧 Technologies & Skills
 
-Languages: JavaScript, Python, C++
-
-Frontend: React, HTML, CSS
-
-Backend: Node.js, Express
-
+Languages: JavaScript, Python, C++, Java
+Frontend: React, HTML, CSS, TailwindCSS
+Backend: Node.js, MySQL
+Database: MongoDB (Work in Progress)
 Design: Figma, Adobe Photoshop, Canva
 
 Tools: Git, GitHub, Webflow
